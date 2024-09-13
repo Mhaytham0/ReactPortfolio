@@ -1,0 +1,22 @@
+.pic{
+    background-image: url('background.jpeg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100%;
+}
+.name{
+    font-size: 40px;
+    color: beige;
+    text-align: center;
+}
+.jobTitle{
+    font-size: 25px;
+    color: beige;
+    text-align: center;
+}
+.desc{
+    text-align: center;
+    padding: 270px;
+}
